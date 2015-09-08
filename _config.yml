@@ -1,0 +1,22 @@
+# Site settings
+title: Docker Meetups In Bordeaux, France
+#email: your-email@domain.com
+description: >
+  We promote Docker events in the area of Bordeaux, France
+  through the Docker Meetups in Bordeaux group.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dockermeetupsinbordeaux.github.io" # the base hostname & protocol for your site
+twitter_username: DockerBordeaux
+github_username:  dockermeetupsinbordeaux
+
+# Build settings
+markdown: kramdown
+
+# Describe authors information
+authors:
+  tristan:
+    display_name: Tristan Carel
+    gravatar: 0d3d86de4572dff348d3e7610d855dae
+    web:
+    twitter: tristancarel
+    github: tristan0x
